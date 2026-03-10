@@ -213,4 +213,4 @@ For more issues, see [07-Troubleshooting.md](./07-Troubleshooting.md).
 
 ---
 
-Next: [Submit Your Work](./06-Submit-Push.md)
+Next: [Submit Your Work](./07-Submit-Push.md)

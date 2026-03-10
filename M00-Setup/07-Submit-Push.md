@@ -1,4 +1,4 @@
-# 06 — Committing & Pushing Your Work
+# 07 — Committing & Pushing Your Work
 ### Python Development | MCC BSIT 2526
 
 [Back to Setup Overview](./Setup.md)
@@ -110,4 +110,4 @@ The tests check output exactly. Look for extra spaces, wrong capitalization, or 
 
 Setup complete. Go to your first module on GitHub and check MS Teams for the Module 01 announcement.
 
-See [07-Troubleshooting.md](./07-Troubleshooting.md) if anything is still not working.
+See [07-Troubleshooting.md](./08-Troubleshooting.md) if anything is still not working.

@@ -1,4 +1,4 @@
-# 04 — GitHub Classroom & Cloning Your Repo
+# 05 — GitHub Classroom & Cloning Your Repo
 ### Python Development | MCC BSIT 2526
 
 [Back to Setup Overview](./Setup.md)
@@ -91,4 +91,4 @@ Try cloning via the terminal using Method B instead.
 
 ---
 
-Next: [Using Notebooks](./05-Using-Notebooks.md)
+Next: [Using Notebooks](./06-Using-Notebooks.md)

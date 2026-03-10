@@ -50,8 +50,7 @@ Modules are published as the course progresses. Watch MS Teams for announcements
 | Git | Version control |
 | GitHub | Hosts this repo and your assignment repos |
 | GitHub Classroom | Distributes and collects assignments |
-| GitHub Codespaces | Browser-based VS Code — use if you cannot install locally |
-| Google Colab | Browser-based notebook fallback |
+| GitHub Codespaces | Browser-based VS Code — use if you cannot install locally ||
 | MS Teams | Announcements, theory lectures, and recordings |
 
 ---

@@ -11,10 +11,14 @@ Python is the programming language this course runs on. We need version **3.10 o
 
 ## Windows
 
-1. Go to [https://www.python.org/downloads/](https://www.python.org/downloads/)
-2. Click the **"Download Python 3.x.x"** button
-3. Run the downloaded `.exe` file
-4. ⚠️ On the first screen, check **"Add Python to PATH"** before clicking anything else
+1. Go to [https://www.python.org/downloads/](https://www.python.org/downloads/release/python-31210/)
+
+2. Scroll down to the bottom
+3.  Click the one that is indicated on the image below:
+   <img width="1892" height="883" alt="image" src="https://github.com/user-attachments/assets/eab236f6-5551-40ee-90fa-f49a1677d3cb" />
+
+4. Run the downloaded `.exe` file
+5. ⚠️ On the first screen, check **"Add Python to PATH"** before clicking anything else
 
    ```
    ┌─────────────────────────────────────────┐
@@ -29,8 +33,8 @@ Python is the programming language this course runs on. We need version **3.10 o
 
    > ⚠️ If you skip this, Python will not work in the terminal and you will need to reinstall.
 
-5. Click **"Install Now"** and wait for it to finish
-6. Click **Close**
+7. Click **"Install Now"** and wait for it to finish
+8. Click **Close**
 
 **Verify — open Command Prompt and run:**
 ```
@@ -43,8 +47,11 @@ Expected: `Python 3.12.x`
 ## macOS
 
 1. Go to [https://www.python.org/downloads/](https://www.python.org/downloads/)
-2. Click **"Download Python 3.x.x"**
-3. Open the downloaded `.pkg` file and follow the installer steps
+2. Scroll down to the bottom
+3. Click the one that is indicated on the image below:
+   <img width="1875" height="842" alt="image" src="https://github.com/user-attachments/assets/bdd66d75-b58e-40f8-ad19-dad88477a1d8" />
+
+4. Open the downloaded `.pkg` file and follow the installer steps
 
 **Verify — open Terminal and run:**
 ```bash

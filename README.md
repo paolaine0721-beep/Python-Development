@@ -52,6 +52,8 @@ Modules are published as the course progresses. Watch MS Teams for announcements
 | [GitHub Classroom](https://classroom.github.com/classrooms) | Distributes and collects assignments |
 | [GitHub Codespaces](https://github.com/codespaces) | Browser-based VS Code — use if you cannot install locally ||
 | [MS Teams](https://www.microsoft.com/en-us/microsoft-teams/log-in) | Announcements, theory lectures, and recordings |
+| [Google Colab(Optional)](https://colab.research.google.com/) | Online Environment for Python, Fallback and Optional |
+
 
 ---
 
